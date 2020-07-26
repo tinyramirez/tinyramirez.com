@@ -67,3 +67,11 @@ yarn-error.log
 .pnp.js
 # Yarn Integrity file
 .yarn-integrity
+
+*.pyc
+.DS_Store
+*.swp
+/venv/
+/static/
+/media/
+.env
