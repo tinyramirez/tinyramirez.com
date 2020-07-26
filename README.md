@@ -1,2 +1,2 @@
-# tinyramirez.github.io
+# tinyramirez.com
  Personal Website
